@@ -1,0 +1,17 @@
+{
+  "name": "simple_chat",
+  "version": "1.0.0",
+  "description": "client-server chat example",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Nikitorius",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "ws": "^7.4.2"
+  }
+}
